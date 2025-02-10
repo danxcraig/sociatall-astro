@@ -18,13 +18,9 @@ export default defineConfig({
             title: "Sociatall",
             favicon: './src/assets/2.png',
             social: {
-                youtube: "https://youtube.com/@astrodotbuild",
-                github: "https://github.com/withastro/starlight",
-                linkedin: "https://www.linkedin.com/company/astroinc",
-                twitch: "https://www.twitch.tv/bholmesdev",
-                discord: "https://astro.build/chat",
-                blueSky: "https://google.com",
-                patreon: "https://google.com",
+                linkedin: "https://www.linkedin.com/company/sociatall/",
+                youtube: "https://www.youtube.com/playlist?list=PLQMCTrMu4c0S3R42OgxmJaGC7z43hw_1d",
+                github: "https://github.com/danxcraig/sociatall-astro",
             },
             logo: {
                 light: './src/assets/nav-logo-light.png',
