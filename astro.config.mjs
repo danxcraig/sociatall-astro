@@ -7,6 +7,8 @@ import mdx from "@astrojs/mdx";
 import svelte from "@astrojs/svelte";
 import tailwindcss from "@tailwindcss/vite";
 
+import vercelStatic from '@astrojs/vercel';
+
 // https://astro.build/config
 export default defineConfig({
     site: "http://localhost:4321",
@@ -144,4 +146,14 @@ export default defineConfig({
     vite: {
         plugins: [tailwindcss()],
     },
+
+    output: 'static',
+    adapter: vercelStatic(
+        {
+            webAnalytics: {
+                enabled: false
+            },
+            imageService: true,
+        }
+    ),
 });
