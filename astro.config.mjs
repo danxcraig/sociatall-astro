@@ -41,16 +41,19 @@ export default defineConfig({
                     label: "Research",
                     items: [
                         {
-                            label: "Root Cause Analysis",
+                            label: "Root Causes",
                             items: [
-                                "market-research/root-causes/economic-factors",
-                                "market-research/root-causes/root-causes",
+                                "market-research/root-causes/purpose",
+                                "market-research/root-causes/socio-economic-factors",
+                                "market-research/root-causes/technology-factors",
+                                "market-research/root-causes/cultural-and-organisational-factors",
                                 "market-research/root-causes/supplier-factors",
+
                             ],
                             collapsed: true,
                         },
                         {
-                            label: "Charity Characteristics",
+                            label: "Charity Insights",
                             items: [
                                 "market-research/characteristics/purpose",
                                 "market-research/characteristics/characteristics",
@@ -59,35 +62,29 @@ export default defineConfig({
                                 "market-research/characteristics/people",
                                 "market-research/characteristics/maturity",
                                 "market-research/characteristics/annex",
-                            ],
-                            collapsed: true,
-                        },
-                        {
-                            label: "Persona Problems",
-                            items: [
-                                "market-research/personas/purpose",
+                                "market-research/archetypes/purpose",
                                 {
                                     label: "Template",
-                                    link: "market-research/personas/template",
+                                    link: "market-research/archetypes/template",
                                     
                                 },
                                 {
-                                    label: "Trustees",
-                                    link: "market-research/personas/trustees",
+                                    label: "Board of Trustees",
+                                    link: "market-research/archetypes/trustees",
                                 },
                                 {
-                                    label: "CEOs",
-                                    link: "market-research/personas/ceos",
+                                    label: "CEO",
+                                    link: "market-research/archetypes/ceos",
                                 },
-                                "market-research/personas/leadership",
-                                "market-research/personas/managers",
-                                "market-research/personas/operators",
-                                "market-research/personas/volunteers",
+                                "market-research/archetypes/leadership",
+                                "market-research/archetypes/managers",
+                                "market-research/archetypes/operators",
+                                "market-research/archetypes/volunteers",
                             ],
                             collapsed: true,
                         },
                         {
-                            label: "Current Suppliers",
+                            label: "Supplier Insights",
                             items: [
                                 "market-research/current-suppliers/hardware",
                                 "market-research/current-suppliers/software",

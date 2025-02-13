@@ -1,5 +1,5 @@
 ---
-title: Trustees
+title: Board Of Trustees
 ---
 
 :::danger[Work Not Started]
