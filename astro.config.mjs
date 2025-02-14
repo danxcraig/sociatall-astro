@@ -31,8 +31,8 @@ export default defineConfig({
                 {
                     label: "Overview",
                     items: [
-                        "overview/about",
                         "overview/challenge",
+                        "overview/about",
                         "overview/help",
                     ],
                     collapsed: true,
