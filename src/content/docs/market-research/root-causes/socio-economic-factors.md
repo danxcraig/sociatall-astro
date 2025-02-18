@@ -4,9 +4,7 @@ title: Socio-Economic Factors
 
 :::note[Help Needed]
 
-This page currently relies on Secondary and Tertiary research.
-
-If you believe you could help improve its accuracy, breadth or depth [we'd love to hear from you](../../overview/help).
+Can you help improve the accuracy, breadth or depth of this page? [We'd love to hear from you!](../../overview/help).
 
 :::
 

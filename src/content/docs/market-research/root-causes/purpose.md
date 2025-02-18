@@ -2,8 +2,6 @@
 title: Understanding The Root Causes
 ---
 
-## Summary
-
 Understanding the root causes of this challenge is critical for developing effective, long-term solutions.
 
 By uncovering why small charities struggle with technology and skills, Sociatall can design better programs that remove barriers rather than just mitigating their effects. Whether through tailored training, affordable tech solutions, or strategic partnerships, addressing root causes ensures that small charities can focus on their core mission—serving communities and changing lives.

@@ -2,11 +2,9 @@
 title: Supplier Factors
 ---
 
-:::note[Work In Progress]
+:::note[Help Needed]
 
-This section is a constant work in progress. 
-
-If you would like to contribute to its development or maintenance, [we'd love to hear from you](../../overview/help).
+Can you help improve the accuracy, breadth or depth of this page? [We'd love to hear from you!](../../overview/help).
 
 :::
 
