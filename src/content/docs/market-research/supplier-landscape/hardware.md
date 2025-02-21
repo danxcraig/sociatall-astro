@@ -25,6 +25,7 @@ If you would like to contribute to the building of this page, [we'd love to hear
 # End User Layer
 
 ## Desktops & Laptops
+* Computers4Charity
 
 ## Mobile Devices
 * Good Call

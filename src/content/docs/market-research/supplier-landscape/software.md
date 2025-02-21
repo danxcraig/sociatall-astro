@@ -14,6 +14,7 @@ If you would like to contribute to the building of this page, [we'd love to hear
 
 These solutions are designed to help charities raise money online, manage campaigns, and process donations, maintain donor records, manage relationships, and analyse fundraising performance. Tools in this category are geared toward managing grant applications and tracking funding.
 
+* **Benevoty** 
 * **Bloomerang**  – A donor management CRM focused on improving donor retention.
 * **CharityCRM**  – Specifically tailored to meet the needs of charities in managing donor relationships.
 * **CiviCRM**  – A free, open-source CRM used widely by nonprofits.
