@@ -39,11 +39,13 @@ Charity Commission guidelines require [22% more compliance documentation] for te
 
 ### Giving Patterns
 
-Funding Perception: Stakeholders and donors often view IT spending as an overhead, not an investment, pushing charities to prioritize more direct impact activities over technological advancements.
+* IT spending is seen as an overhead, pushing charities to prioritize more direct impact activities over technological advancements.
 
-Grant Limitations: Grants and donations typically exclude funding for tech tools or their maintenance, as per [CAF UK Giving Report][7].     Narrow Donor Priorities: Grant frameworks and donor applications rarely earmark budgets for technology upgrades or digital tool maintenance, with some reports indicating that less than 20% of grants include provisions for digital transformation. [68% of individual donors] and [54% of institutional funders] perceive technology spending as administrative overhead rather than capacity-building investment.
+* Grants and donations typically exclude funding for tech tools or their maintenance.
 
-Restricted income streams dominate small charity finances, with [83% of grants] and [91% of contracts] prohibiting reallocation of funds to technology upgrades. Project-based funding cycles averaging [14.3 months] prevent multi-year digital roadmaps, forcing perpetual short-term tooling decisions.
+* Grant frameworks and donor applications rarely earmark budgets for technology upgrades or digital tool maintenance, with some reports indicating that less than 20% of grants include provisions for digital transformation. [68% of individual donors] and [54% of institutional funders] perceive technology spending as administrative overhead rather than capacity-building investment.
+
+* Project-based funding cycles averaging [14.3 months] prevent multi-year digital roadmaps, forcing perpetual short-term tooling decisions.
     
 
 ### Regulatory Burden

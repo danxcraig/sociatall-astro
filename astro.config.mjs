@@ -47,7 +47,6 @@ export default defineConfig({
                                 "market-research/root-causes/socio-economic-factors",
                                 "market-research/root-causes/market-factors",
                                 "market-research/root-causes/charity-factors",
-                                "market-research/root-causes/technology-factors",
                                 "market-research/root-causes/supplier-factors",
 
                             ],
@@ -66,9 +65,22 @@ export default defineConfig({
                             label: "Supplier Landscape",
                             items: [
                                 "market-research/supplier-landscape/purpose",
+                                "market-research/supplier-landscape/funding",
                                 "market-research/supplier-landscape/hardware",
                                 "market-research/supplier-landscape/software",
                                 "market-research/supplier-landscape/services",
+                            ],
+                            collapsed: true,
+                        },
+                        {
+                            label: "Innovation Landscape",
+                            items: [
+                                "market-research/innovation-landscape/purpose",
+                                "market-research/innovation-landscape/policy",
+                                "market-research/innovation-landscape/finance",
+                                "market-research/innovation-landscape/technology",
+                                "market-research/innovation-landscape/service-delivery",
+                                "market-research/innovation-landscape/organisation",
                             ],
                             collapsed: true,
                         },
@@ -80,8 +92,9 @@ export default defineConfig({
                 {
                     label: "Strategy",
                     items: [
-                        "strategy/brief",
                         "strategy/philosophy",
+                        "strategy/brief",
+                        "strategy/opportunities",
                         "strategy/ideas",
                         "strategy/scorecards",
                         "strategy/structure",
