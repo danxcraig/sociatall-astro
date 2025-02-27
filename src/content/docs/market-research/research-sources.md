@@ -94,3 +94,18 @@ The secondary and tertiary resources which have been used are listed below. If t
 - Fundraising.co.uk
 - Civil Society News
 - Charity Times
+
+### AI LLMs
+
+:::note[Use of LLMs]
+
+While LLMs have been leveraged for some research discovery, any data provided by them has been manually verified, vetted and source checked prior to being included on the Sociatall website.
+
+:::
+
+- ChatGPT
+- Claude
+- Deepseek
+- Perplexity
+- Grok
+- Gemini

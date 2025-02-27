@@ -68,19 +68,6 @@ export default defineConfig({
                                 "market-research/supplier-landscape/funding",
                                 "market-research/supplier-landscape/hardware",
                                 "market-research/supplier-landscape/software",
-                                "market-research/supplier-landscape/services",
-                            ],
-                            collapsed: true,
-                        },
-                        {
-                            label: "Innovation Landscape",
-                            items: [
-                                "market-research/innovation-landscape/purpose",
-                                "market-research/innovation-landscape/policy",
-                                "market-research/innovation-landscape/finance",
-                                "market-research/innovation-landscape/technology",
-                                "market-research/innovation-landscape/service-delivery",
-                                "market-research/innovation-landscape/organisation",
                             ],
                             collapsed: true,
                         },
@@ -93,6 +80,18 @@ export default defineConfig({
                     label: "Strategy",
                     items: [
                         "strategy/philosophy",
+                        {
+                            label: "Innovation Landscape",
+                            items: [
+                                "strategy/innovation-landscape/purpose",
+                                "strategy/innovation-landscape/policy",
+                                "strategy/innovation-landscape/finance",
+                                "strategy/innovation-landscape/technology",
+                                "strategy/innovation-landscape/service-delivery",
+                                "strategy/innovation-landscape/organisation",
+                            ],
+                            collapsed: true,
+                        },
                         "strategy/brief",
                         "strategy/opportunities",
                         "strategy/ideas",
