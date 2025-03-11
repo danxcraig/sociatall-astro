@@ -85,3 +85,5 @@ If you would like to contribute to the building of this page, [we'd love to hear
         -   **Prodigy Learning** -- Online learning and certification programs for charities.
 
         Hhive - https://thenonprofithive.com/
+        IT4Charity
+        https://wcit.org.uk/

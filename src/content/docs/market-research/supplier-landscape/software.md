@@ -17,8 +17,10 @@ Tools for assessing program effectiveness and impact.
 -   **Upshot** -- Impact measurement and analytics for nonprofits.
 
 ### **Strategy**
+
 -   **OnBoard** -- Board management and governance software for nonprofits.
 -   **Convene** -- Board meeting and governance software for nonprofits.
+-   **EasyBoard** -- https://easyboard.com
 -   **Tableau** -- Data visualization and reporting software for charities.
 -   **Alteryx** -- 
 -   **Metriscope** -- Data analytics and monitoring software for charities.
@@ -75,8 +77,6 @@ Specialized software for managing Gift Aid tax claims.
 -   **Veritas** -- Data protection, backup, and recovery solutions.
 -   **Dashlane** -- Password management and security tools for charities.
 -   **Mailshell** -- Email filtering and anti-spam solutions for nonprofits.
-
-
 
 ## Outreach
 
@@ -146,7 +146,7 @@ Tools for creating visuals, infographics, and marketing materials.
 
 ## Funding
 
-### **CRM**
+### **CRM & Fundraising**
 
 Tools for managing donor relationships, tracking fundraising performance, and processing donations.
 
@@ -175,6 +175,9 @@ Tools for managing donor relationships, tracking fundraising performance, and pr
 -   **GivenGain** -- Global fundraising platform for charities.
 -   **Facebook Fundraising Tools** -- Donation and fundraising tools on Facebook.
 -   **Hubspot** -- Marketing management platform.
+-   **Social Sync** -- Mission control for nonprofit fundraising.
+-   **Pravi** --  Helps you find and convert new donors without needing an existing donor database. 
+
 
 ### **Payments**
 
@@ -251,6 +254,7 @@ Software for recruiting, scheduling, and managing volunteers.
 
 Platforms for building custom applications and integrating various tools.
 
+-   **Bridgit** -- Integrates charity platforms and automates repetitive admin tasks.
 -   **Clappia** -- No-code platform for creating custom apps.
 -   **Knack** -- A tool for building custom online databases.
 -   **Zapier** -- Automation tool connecting different software applications.

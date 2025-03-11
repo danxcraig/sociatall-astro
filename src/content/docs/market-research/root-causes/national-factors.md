@@ -1,5 +1,5 @@
 ---
-title: Socio-Economic Factors
+title: National Factors
 ---
 
 :::note[Help Needed]
@@ -14,7 +14,7 @@ Small to medium-sized charities now receive [only 14.74%][2] of the total availa
 
 Unable to access or afford essential technology and expertise for their under pressure teams, the income and delivery problem is critically compounding for the sector on an annual basis.
 
-As a result of current socio-economic factors, [1 in 5 charities][1] in the UK have now been forced to cut back on the number or scope of services they offer, placing further impact and burden on communities who are already stretched to their limit.
+As a result of the current politico-socio-economic environment in the UK, [1 in 5 charities][1] have been forced to cut back on the number or scope of services they offer, placing further impact and burden on communities who are already stretched to their limit.
 
 ## The Facts
 * [54% of charities][3] are facing substantially increased demands on their service.

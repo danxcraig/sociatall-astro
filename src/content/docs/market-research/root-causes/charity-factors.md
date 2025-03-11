@@ -9,7 +9,7 @@ Can you help improve the accuracy, breadth or depth of this page? [We'd love to 
 :::
 
 ## The Problem
-
+Project-based funding cycles averaging [14.3 months] prevent multi-year digital roadmaps, forcing perpetual short-term tooling decisions.
 [89% of charity leaders] report that outdated technology directly impedes service scalability and impact measurement
 Volunteer management systems in small charities operate at [47% lower efficiency] than sector benchmarks due to technological limitations
 Digital inefficiencies are estimated to reduce overall fundraising effectiveness by 25%, as manual processes and fragmented systems drain valuable time and resources. 4

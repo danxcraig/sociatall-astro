@@ -44,10 +44,9 @@ export default defineConfig({
                             label: "Root Causes",
                             items: [
                                 "market-research/root-causes/purpose",
-                                "market-research/root-causes/socio-economic-factors",
+                                "market-research/root-causes/national-factors",
                                 "market-research/root-causes/market-factors",
                                 "market-research/root-causes/charity-factors",
-                                "market-research/root-causes/supplier-factors",
 
                             ],
                             collapsed: true,
