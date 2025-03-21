@@ -15,6 +15,7 @@ Can you help improve the accuracy, breadth or depth of this page? [We'd love to 
 Tools for assessing program effectiveness and impact.
 
 -   **Upshot** -- Impact measurement and analytics for nonprofits.
+-   **Proofpact** -- Mobilize your nonprofit's community, leverage community shared stories, and socialize proof of impact.
 
 ### **Strategy**
 
@@ -278,7 +279,7 @@ Platforms for building custom applications and integrating various tools.
 -   **Google Drive** -- Cloud storage and file-sharing platform.
 -   **Box.org** -- Cloud storage and collaboration platform with charity discounts.
 -   **Microsoft 365** -- Comprehensive productivity suite for email, document creation, and collaboration.
-    **SharePoint** -- Cloud-based document management and collaboration tool.
+-   **SharePoint** -- Cloud-based document management and collaboration tool.
 
 
 

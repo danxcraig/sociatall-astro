@@ -80,6 +80,7 @@ The secondary and tertiary resources which have been used are listed below. If t
 ### Data & Research Resources
 
 - Small Charities Data
+- Institute for Voluntary Action Research
 - 360 Giving
 - UK Data Service
 - Giving Evidence
@@ -99,7 +100,9 @@ The secondary and tertiary resources which have been used are listed below. If t
 
 :::note[Use of LLMs]
 
-While LLMs have been leveraged for some research discovery, any data provided by them has been manually verified, vetted and source checked prior to being included on the Sociatall website.
+LLMs have been leveraged to aid desk research (particularly in finding new sources of information) and to aid in creating coherent and readable information for this site.
+
+All data provided by them has been manually verified, vetted and source checked, prior to being included on the Sociatall website and original source referenced.
 
 :::
 

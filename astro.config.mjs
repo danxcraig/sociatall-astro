@@ -2,6 +2,8 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
+import starlightTocOverviewCustomizer from "starlight-toc-overview-customizer";
+
 import mdx from "@astrojs/mdx";
 
 import svelte from "@astrojs/svelte";
@@ -123,6 +125,13 @@ export default defineConfig({
                     collapsed: true,
                 },
             ],
+            plugins: [
+                starlightTocOverviewCustomizer({
+                    overviewTitle: {
+                        en: "Back To Top",
+                        },
+                }),
+              ],
         }),
         mdx(),
         svelte(),

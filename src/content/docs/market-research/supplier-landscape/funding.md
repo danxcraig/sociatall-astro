@@ -35,6 +35,17 @@ If you would like to contribute to the building of this page, [we'd love to hear
 - Tata Trusts – Digital inclusion programs.
 - Mozilla Foundation – Connectivity & open internet initiatives.
 
+https://www.ncvo.org.uk/help-and-guidance/digital-technology/funding-digital-and-technology-costs/
+https://charitydigitalskills.co.uk/report/detailed-findings/digital-funding/
+https://www.charitydigitalexchange.org/
+* Core/Unrestricted Funding (classified as overheads, indirect costs, or support costs)
+* Project-Specific Grants
+* Government & Local Authority Grants
+* Funder Plus programs
+* Dedicated Technology Funds
+* Software Donation & Discount Programs
+* Tech for good or social tech grants or investments
+
 ## Personal Advice, Guidance & Support
 
 * **[Catalyst][1]** - A network supporting communities to transform technology into a tool for justice.
@@ -87,3 +98,8 @@ If you would like to contribute to the building of this page, [we'd love to hear
         Hhive - https://thenonprofithive.com/
         IT4Charity
         https://wcit.org.uk/
+
+        https://betterstory.co.uk/
+        https://www.civilsociety.co.uk/news/unrestricted-funding-should-be-the-starting-point-foundations-told.html
+        https://www.iplicit.com/blog/why-charity-finance-teams-could-have-to-spend-more-time-dealing-with-restricted-funds
+        

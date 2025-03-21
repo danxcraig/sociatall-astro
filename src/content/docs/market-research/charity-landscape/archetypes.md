@@ -1,5 +1,6 @@
 ---
 title: Archetypes
+overviewTitle: About Archetypes
 ---
 
 :::note[Help Needed]
