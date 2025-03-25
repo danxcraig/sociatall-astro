@@ -9,6 +9,12 @@ Can you help improve the accuracy, breadth or depth of this page? [We'd love to 
 
 :::
 
+Revenue
+
+* **Private Sector** - 5.27t
+* **Public Sector** - 1.1t
+* **Third Sector** - 120b (1.8%)
+
 Small to medium-sized charities now receive [only 14.74%][2] of the total available income in the sector, a significant decline from 33.6% in 2000.
 
 Unable to access or afford essential technology and expertise for their under pressure teams, the income and delivery problem is critically compounding for the sector on an annual basis.
